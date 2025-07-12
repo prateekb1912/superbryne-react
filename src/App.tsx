@@ -86,7 +86,7 @@ const App: React.FC = () => {
             colorMap[expression] || "text-black"
           }`}
         >
-          Expression: {expression} {colorMap[expression]}
+          Expression: {expression}
         </p>
       )}
     </div>
